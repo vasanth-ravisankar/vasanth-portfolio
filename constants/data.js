@@ -53,7 +53,7 @@ const userData = {
       "I'm a software developer that loves building products and web applications that impact millions of lives",
     description: [
       `I've been developing full-stack application since 2014. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `I've been coding in React, JS, TS, HTML5, CSS3, Angular, Node.js, Express, git, Firebase, MySQL, MongoDB, Postgres, Bootstrap, Material UI, Ant Design, Tailwind,.`,
+      `I've been coding in React, NextJs, JS, TS, HTML5, CSS3,  Angular, Node.js, Express, git, Firebase, Supabase, MySQL, MongoDB, Postgres, Bootstrap, Material UI, Ant Design, Tailwind,.`,
     ],
     currentProject: "Ascent Portal",
     currentProjectUrl: "https://ascent-server.web.app/dashboard/app",
